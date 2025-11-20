@@ -5,7 +5,7 @@ Atualmente focado na administração de servidores Linux e implementação de am
 
 🔭 **No que estou trabalhando agora:**
 * **Hardening de Servidores VPS:** Implementação de Firewalls (UFW), Fail2Ban e gestão de chaves SSH.
-* **Containerização:** Subindo aplicações (n8n, Bancos de Dados) com Docker e Docker Compose.
+* **Containerização:** Subindo aplicações com Docker e Docker Compose.
 * **Segurança de Redes:** Configuração de túneis SSH e Proxy Reverso.
 
 🛠️ **Tech Stack:**
