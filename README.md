@@ -10,10 +10,10 @@ Atualmente focado na administração de servidores Linux e implementação de am
 
 🛠️ **Tech Stack:**
 * **OS:** Linux Ubuntu Server
-* **Cloud/Virtualização:** VPS, Docker, Portainer
+* **Cloud/Virtualização:** VPS, Docker
 * **Segurança:** UFW, Fail2Ban, SSH Hardening
-* **Dev/Scripting:** C#, .NET, Bash Scripting, SQL
-* **Banco de Dados:** MongoDB, MySQL
+* **Dev/Scripting:** C#, .NET, SQL
+* **Banco de Dados:**  MySQL
 
 📚 **Estudando:**
 * Certificação Microsoft Azure Fundamentals (AZ-900)
